@@ -1,0 +1,10 @@
+@use './variables' as var;
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+body {
+	font-family: 'Outfit', sans-serif;
+	color: var.$grayish-blue;
+	font-size: 1.6rem;
+	font-weight: 400;
+}
