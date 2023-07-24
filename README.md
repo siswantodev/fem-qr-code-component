@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Frontend Mentor Challenge Solution](https://your-solution-url.com)
-- Live Site URL: [QR Code Component](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Challenge Solution](https://www.frontendmentor.io/solutions/qr-code-component-using-css-grid-sass-and-bem-ug-lZybFUW)
+- Live Site URL: [QR Code Component](https://fem-qr-code-component-good.netlify.app)
 
 ## My process
 
